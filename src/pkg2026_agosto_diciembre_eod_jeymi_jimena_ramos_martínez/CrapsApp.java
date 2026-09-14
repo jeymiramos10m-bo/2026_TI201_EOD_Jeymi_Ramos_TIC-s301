@@ -149,9 +149,7 @@ public class CrapsApp {
             }
         }
 
-        // ==========================================
         // IMPRESIÓN DE RESULTADOS Y RESPUESTAS
-        // ==========================================
         System.out.println("=== SIMULACION DEL JUEGO DE CRAPS ===");
         System.out.println("Total de juegos simulados: " + totalJuegos + "\n");
 
